@@ -1,5 +1,10 @@
-### Hi there 👋
+# Neha Sardana's Github 👋
 
+## About Me
+
+* Software Developer
+* Java User Group (JUG) Leader, Garden State JUG, New Jersey and NYJavaSig, New York
+* https://twitter.com/nehasardana09
 <!--
 **nsardana-bny/nsardana-bny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
